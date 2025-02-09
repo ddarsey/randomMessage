@@ -1,0 +1,1 @@
+This app randomly selects an ice cream flavor, a topping, and a special blessing just for you.
