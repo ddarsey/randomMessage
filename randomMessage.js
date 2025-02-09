@@ -18,6 +18,5 @@ const randomizer = () => {
     
 }
 
-// console.log("Hellurrrrr");
 
 randomizer();
