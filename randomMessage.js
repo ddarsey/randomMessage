@@ -9,10 +9,10 @@ const randomizer = () => {
     ranFlavor = flavors[ranNum1];
     ranTopping = toppings[ranNum2];
     ranBlessing = blessings[ranNum3];
-    console.log(ranFlavor);
-    console.log(ranTopping);
-    console.log(ranBlessing);
-
+    console.log('Your ice cream flavor is: ' + ranFlavor);
+    console.log('Your topping is: ' + ranTopping);
+    console.log('Your blessing is: ' + ranBlessing);
+    
 }
 
 // console.log("Hellurr");
